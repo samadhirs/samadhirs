@@ -3,9 +3,9 @@
 
 ---
 
-- 🌱 I’m currently learning **![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)**
 
-- 📫 How to reach me **rssamadhi062@gmail.com**
+
+<h3 align="center">- 📫 How to reach me **rssamadhi062@gmail.com**</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
